@@ -41,5 +41,10 @@
             android:id="@+id/txtMuestraEdad" android:textSize="24sp"
             app:layout_constraintTop_toTopOf="parent" app:layout_constraintStart_toStartOf="parent"
             android:layout_marginTop="321dp" android:layout_marginStart="86dp"/>
+    <Button
+            android:text="Button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" tools:layout_editor_absoluteY="233dp"
+            tools:layout_editor_absoluteX="292dp" android:id="@+id/button2"/>
 
 </android.support.constraint.ConstraintLayout>
